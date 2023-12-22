@@ -1,0 +1,86 @@
+[
+    {    
+        "id" : 1,
+        "url" :"VideoPage/video1.mp4",
+        "name" :"ABC Song | Learn Your Letters (Original Kid's Phonics Song) ",
+        "image" : "VideoPageImage/hinh1.png"
+    },
+    {   
+        "id" : 2,
+        "url" :"VideoPage/video2.mp4",
+        "name" :"ABC Song | Nursery Rhymes and Kids Songs  ",
+        "image" : "VideoPageImage/hinh2.png"
+    
+    },
+    {
+        "id" : 3,
+        "url" :"VideoPage/video3.mp4",
+        "name" :"ABC Song | Nursery Rhymes and Kids Songs  ",
+        "image" : "VideoPageImage/hinh2.png"
+    
+    },
+    
+    {
+        "id" : 6,
+        "url" :"VideoPage/video6.mp4",
+        "name" :"The Alphabet Swing | ABC Song for Kids   ",
+        "image" : "VideoPageImage/hinh6.png"
+    
+    },
+    {
+        "id" : 8,   
+        "url" :"VideoPage/video8.mp4",
+        "name" :" Phonics Song 2 with TWO Words ",
+        "image" : "VideoPageImage/hinh8.png"
+    
+    },
+    {
+        "id" : 9,   
+        "url" :"VideoPage/video9.mp4",
+        "name" :"ABC Phonic Song - Toddler Learning Video Songs", 
+        "image" : "VideoPageImage/hinh9.png"
+    
+    },
+    {
+        "id" : 10,   
+        "url" :"VideoPage/video10.mp4",
+        "name" :"ABC Phonics Song with Sounds for Children ",
+        "image" : "VideoPageImage/hinh10.png"
+    
+    },
+    {
+        "id" : 11,   
+        "url" :"VideoPage/video11.mp4",
+        "name" :"The Alphabet Is So Much Fun  Kids Songs  Super Simple Song",
+        "image" : "VideoPageImage/hinh11.png"
+    
+    },
+    {
+        "id" : 12,   
+        "url" :"VideoPage/video12.mp4",
+        "name" :"ABC Quack | Super Simple ABCs | Kids Alphabet Songs    ",
+        "image" : "VideoPageImage/hinh12.png"
+    
+    },
+    {
+        "id" : 13,   
+        "url" :"VideoPage/video13.mp4",
+        "name" :"The Alphabet Song  Learn The ABCs  Finny The Shark",
+        "image" : "VideoPageImage/hinh13.png"
+    
+    },
+    {
+        "id" : 14,   
+        "url" :"VideoPage/video14.mp4",
+        "name" :"ABC Song Speeding Up (Uppercase) | Super Simple ABCs ",
+        "image" : "VideoPageImage/hinh14.png"
+    
+    },
+    {
+        "id" : 15,   
+        "url" :"VideoPage/video15.mp4",
+        "name" :"ABC Song with ChuChu Toy Train - Alphabet Song for Kids ",
+        "image" : "VideoPageImage/hinh15.png"
+    
+    }
+    ]
