@@ -1,0 +1,74 @@
+[
+	{
+        "id": 1,
+		"word": "cat",
+		"image": "assetsAnimal/images/animal1-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/cat.mp3"
+	},
+	{
+        "id": 2,
+		"word": "elephant",
+		"image": "assetsAnimal/images/animal2-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/elephant.mp3"
+	},
+	{
+        "id": 3,
+		"word": "monkey",
+		"image": "assetsAnimal/images/animal3-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/monkey.mp3"
+	},
+	{
+        "id": 4,
+		"word": "cow",
+		"image": "assetsAnimal/images/animal4-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/cow.mp3"
+	},
+	{
+        "id": 5,
+		"word": "tiger",
+		"image": "assetsAnimal/images/animal5-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/tiger.mp3"
+	},
+	{
+        "id": 6,
+		"word": "giraffe",
+		"image": "assetsAnimal/images/animal6-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/giraffe.mp3"
+	},
+	{
+        "id": 7,
+		"word": "deer",
+		"image": "assetsAnimal/images/animal7-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/deer.mp3"
+	},
+	{
+        "id": 8,
+		"word": "bird",
+		"image": "assetsAnimal/images/animal8-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/bird.mp3"
+	},
+	{
+        "id": 9,
+		"word": "rabbit",
+		"image": "assetsAnimal/images/animal9-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/rabbit.mp3"
+	},
+	{
+        "id": 10,
+		"word": "pig",
+		"image": "assetsAnimal/images/animal10-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/pig.mp3"
+	},
+	{
+        "id": 11,
+		"word": "crocodile",
+		"image": "assetsAnimal/images/animal11-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/crocodile.mp3"
+	},
+	{
+        "id": 12,
+		"word": "animal",
+		"image": "assetsAnimal/images/animal12-removebg-preview.png",
+		"wordSound": "assetsAnimal/sounds/horse.mp3"
+	}
+]
