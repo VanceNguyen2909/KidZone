@@ -1,0 +1,19 @@
+/* .demo1{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 550px;
+    padding-right: 400px;
+    padding-top: 50px;
+    font-size: 40px;
+    grid-gap: 460px;
+    text-align: left;
+ 
+} */
+
+
+.detailspage{
+    padding-top: 10%;
+    padding-bottom: 5%;
+    background-color: #E0FFFF;
+    background: linear-gradient(to right, #E0FFFF, #FFD6E0);
+}

@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'atitl';
+    src: url('/public/fonts/LightBearer.ttf');
+}
+.AWBD{
+    padding-top: 3%;
+    padding-right: 60%;
+
+}
+.atitle{
+    font-family: 'atitl';
+    font-size: 450%;
+}
+
+.aware{
+    background-image: url('/public/AwarenessImage/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 2%;
+}
+.awc{
+    padding-top: 5%;
+}
